@@ -1,0 +1,18 @@
+.moto{
+    background: linear-gradient(#343a40,#C0C0C0);
+    color: white;
+    height: 820px;
+}
+
+.auto{
+    background: linear-gradient(#C0C0C0,#343a40);
+    color: white;
+    height: 820px;
+
+}
+
+.col-6 h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
